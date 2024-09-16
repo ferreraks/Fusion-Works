@@ -45,5 +45,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 document.getElementById('loginForm').addEventListener('submit', function (event) {
     event.preventDefault(); // Impede o envio padrão do formulário
-    window.location.href = "/src/paginas/home.html"; // Redireciona para o site desejado
+    window.location.href = "./src/paginas/home.html"; // Redireciona para o site desejado
 });
