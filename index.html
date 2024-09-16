@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FusionWorks - Login/Registro</title>
+    <link rel="stylesheet" href="./Login/loginstyle.css">
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔥</text></svg>">
+</head>
+
+<body>
+    <div class="container">
+        <div class="form-container">
+            <div class="form-box login">
+                <h2>Login</h2>
+                <form id="loginForm">
+                    <input type="email" placeholder="Email" required>
+                    <input type="password" placeholder="Senha" required>
+                    <button type="submit" href="./home.html">Entrar</button>
+                </form>
+                <p>Não tem uma conta? <a href="#" id="showRegister">Registre-se</a></p>
+            </div>
+            <div class="form-box register">
+                <h2>Registro</h2>
+                <form id="registerForm">
+                    <input type="text" placeholder="Nome" required>
+                    <input type="email" placeholder="Email" required>
+                    <input type="password" placeholder="Senha" required>
+                    <input type="password" placeholder="Confirmar Senha" required>
+                    <button type="submit">Registrar</button>
+                </form>
+                <p>Já tem uma conta? <a href="" id="showLogin">Faça login</a></p>
+            </div>
+        </div>
+    </div>
+    <script src="./Login/loginscript.js"></script>
+</body>
+
+</html>

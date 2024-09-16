@@ -1,0 +1,73 @@
+**1. Estrutura do Projeto**
+
+**Home Page:**
+- Apresentação dos dois, com uma breve descrição das áreas de atuação.
+- Exibição de uma foto de cada um.
+- Menu para navegar entre as seções de ambos os portfólios.
+
+**Página Individual de Portfólio:**
+- Uma seção para cada um, acessível ao clicar na foto correspondente.
+- Apresentação das habilidades, experiências, projetos e contato.
+
+---
+
+**2. Ações Iniciais**
+
+**Planejamento e Discussão:**
+- Reunir informações sobre suas áreas (como programação e marketing) e a do seu amigo.
+- Definir quais projetos serão destacados nos portfólios.
+
+**Design e Estrutura:**
+- Escolher um layout simples e responsivo.
+- Definir cores, fontes e imagens que representam ambos.
+- Criar mockups das páginas principais (podem ser esboços simples ou em alguma ferramenta gráfica).
+
+---
+
+**3. Desenvolvimento do Site**
+
+**Home Page:**
+- Criar um layout de duas colunas, uma para cada pessoa.
+- Inserir as fotos e a descrição resumida.
+- Usar links ou botões para redirecionar para os portfólios individuais ao clicar nas fotos.
+
+**Portfólio Individual:**
+- Criar páginas separadas para cada portfólio.
+- Implementar seções para habilidades, projetos, e um espaço para um resumo profissional.
+
+---
+
+**4. Funcionalidades Técnicas**
+
+**Navegação:**
+- Utilizar uma estrutura de menus no topo ou lateral, com links para as áreas e portfólios.
+- Implementar uma transição suave quando os usuários clicarem nas fotos para trocar de portfólio.
+
+**Responsividade:**
+- Garantir que o site funcione bem em diferentes tamanhos de tela.
+- Testar para dispositivos móveis e desktops.
+
+---
+
+**5. Colaboração e Ferramentas**
+
+**Divisão de Tarefas:**
+- Definir quem será responsável por quais partes do projeto (um pode cuidar da programação, outro do design, por exemplo).
+
+**Ferramentas:**
+- Utilizar Git ou outra plataforma de controle de versão para colaborar no desenvolvimento.
+- Usar um editor de código compartilhado ou uma ferramenta como Visual Studio Code com Live Share para programarem juntos.
+
+---
+
+**6. Testes e Feedback**
+- Testar a navegação e links entre as páginas.
+- Verificar se todas as informações de ambos estão corretas e bem organizadas.
+
+---
+
+**7. Finalização e Lançamento**
+- Revisar todo o conteúdo e design antes de finalizar.
+- Publicar o site em uma plataforma de hospedagem (GitHub Pages, Netlify, etc.).
+
+---
